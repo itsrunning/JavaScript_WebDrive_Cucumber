@@ -1,0 +1,30 @@
+{
+  "name": "JS_webdrive_cucumber_ui_tests",
+  "version": "0.0.0",
+  "description": "Funnctional UI tests for using webdrive cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/itsrunning/JavaScript_WebDrive_Cucumber"
+  },
+  "keywords": [
+    "testing",
+    "javascript",
+    "cucumber",
+    "webdriver"
+  ],
+  "author": "deepak p",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/itsrunning/JavaScript_WebDrive_Cucumber/issues"
+  },
+  "homepage": "https://github.com/itsrunning/JavaScript_WebDrive_Cucumber",
+  "dependencies": {
+    "cucumber": "~0.4.1",
+    "selenium-webdriver": "~2.42.1"
+  }
+
+}
