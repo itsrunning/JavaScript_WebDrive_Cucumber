@@ -2,6 +2,7 @@
 
 A javascript based BDD framework with webdriver and Cucumber. 
 
+[![Build Status](https://travis-ci.org/itsrunning//JavaScript_WebDrive_Cucumber.svg?branch=master)](https://travis-ci.org/itsrunning//JavaScript_WebDrive_Cucumber)
 
 ## Get running...
 Step 1: Clone this repository to your local
